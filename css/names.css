@@ -1,0 +1,29 @@
+body{
+    margin-top: 300px;
+    margin-left: 750px;
+    align-items: center;
+    background-color: rgb(21, 51, 19);
+}
+
+h1{
+    color: aliceblue;
+    margin-left: -90px;
+    font-size: 250%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100px;
+}
+
+
+button{
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: rgb(80, 165, 80);
+    margin-bottom: 10px;
+
+}
+
+.degrade {
+    background: linear-gradient(to right, rgb(10, 26, 4), rgb(32, 134, 37), rgb(16, 245, 16));
+    padding: 20px;
+    color: white;
+}
